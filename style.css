@@ -44,3 +44,28 @@ div.content{
     margin-top: 150px;
     margin-right: 600px;
 }
+.content h2{
+    background-color: #fc456f;
+    width: 40%;
+    margin-left:500px;
+    color: blanchedalmond;
+    height: 60px;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+#btn{
+    margin-left: 530px;
+    margin-top: 30px;
+    border: solid 2px #fc456f;
+    font-size: 20px;
+    padding: 10px ;
+    background: white;
+    color: #fc456f;
+    border-radius: 15px;
+    box-shadow: 10px 10px 8px rgba(0,0,0,0.5) ;
+}
+#btn:hover{
+    color: white;
+    background: #fc456f;
+   
+}
